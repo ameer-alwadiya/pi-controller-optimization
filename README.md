@@ -12,17 +12,6 @@ This repository contains code and documentation for the multi-objective optimiza
 3. Applying NSGA-II to find the Pareto-optimal solutions.
 4. Analyzing the results through various plots and metrics to evaluate the optimization performance.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Sampling Plans](#sampling-plans)
-3. [Optimization Process](#optimization-process)
-4. [Results](#results)
-5. [Sustainability Analysis](#sustainability-analysis)
-6. [Recommendations](#recommendations)
-7. [Functions](#functions)
-8. [How to Use](#how-to-use)
-
 ## Introduction
 
 The goal of this project is to fine-tune a PI controller by optimizing multiple performance objectives using NSGA-II. The PI controller is crucial in maintaining the stability and performance of digital control systems. The project involves:
